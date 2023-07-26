@@ -9,3 +9,4 @@ tox
 black   #formatting
 flake8
 mypy    #type error
+-e .    #will check for .py file and install
